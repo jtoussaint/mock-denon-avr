@@ -1,4 +1,4 @@
-name: AVR Control Service
+name: Mock Denon AVR
 
 on:
   push:
