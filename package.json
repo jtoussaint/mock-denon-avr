@@ -1,0 +1,9 @@
+{
+  "name": "mock-avr",
+  "description": "A mock service for a denon avr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
